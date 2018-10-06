@@ -1,0 +1,12 @@
+1477322		Yang		Katherine	10/04/2018	01:13		8
+1583728		Lawrence	Indiaminah	10/04/2018	02:03		7
+1592847		Fortney		Carol		10/05/2018	01:48		10
+1600134		Everest		Tom			10/05/2018	01:53		6
+1601045		Kim			Taylor		10/05/2018	12:47		14
+1601429		Smith		Alice		10/05/2018	01:17		9
+1602890		Gadwalkar	Ashmita		10/05/2018	01:23		11
+1602937		Edison		Thomas		10/05/2018	02:13		9
+1604892		Kennedy		John		10/05/2018	01:38		13
+1613958		Humphrey	Emilie		10/05/2018	12:47		8
+1614152		Thompson	Joanne		10/05/2018	02:35		12
+1615293		Jordan		Riley		10/06/2018	01:43		12
